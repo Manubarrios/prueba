@@ -1,0 +1,3 @@
+module Entornos {
+	exports entornos;
+}
